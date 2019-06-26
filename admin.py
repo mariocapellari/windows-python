@@ -2,6 +2,10 @@
 # -*- coding: utf-8; mode: python; py-indent-offset: 4; indent-tabs-mode: nil -*-
 # vim: fileencoding=utf-8 tabstop=4 expandtab shiftwidth=4
 
+# DEPENDENCIES:
+# for this to work you need to have win32api installed:
+# pip install pypiwin32
+
 # (C) COPYRIGHT © Preston Landers 2010
 # Released under the same license as Python 2.6.5
 
